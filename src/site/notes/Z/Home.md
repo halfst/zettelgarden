@@ -1,5 +1,5 @@
 ---
-{"created":"2023-01-16T14:12:39-06:00","updated":"2023-02-02T16:37:45-06:00","dg-home":true,"dg-publish":true,"title":"Welcome!","tags":["self/life-optimization/organization/PKM","gardenEntry","gardenEntry"],"zettelgarden":true,"note-type":["fleeting","literature","reference","permanent"],"cssclass":"magazine","permalink":"/z/home/","dgPassFrontmatter":true}
+{"created":"2023-01-16T14:12:39-06:00","updated":"2023-02-02T16:37:45-06:00","dg-home":true,"dg-publish":true,"title":"Welcome!","tags":["self/life-optimization/organization/PKM","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"zettelgarden":true,"note-type":["fleeting","literature","reference","permanent"],"cssclass":"magazine","permalink":"/z/home/","dgPassFrontmatter":true}
 ---
 
 - [What is the Zettelgarden?](Zettelgarden.md)
