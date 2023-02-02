@@ -1,0 +1,17 @@
+---
+{"title":"Atomic Habits","author":["James Clear"],"publisher":"Penguin","publish":"2018-10-16","total":322,"isbn":735211299,"cover":"http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"unread","created":"2023-01-16T23:43:37-06:00","updated":"2023-02-02T16:37:51-06:00","zettelType":"research","zettelgarden":true,"dg-publish":true,"permalink":"/z/notes/atomic-habits-james-clear/","dgPassFrontmatter":true}
+---
+
+
+![cover|150](http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+# Atomic Habits
+#self/self-development/reading/book-notes 
+
+- The most effective way to change is through small, consistent changes rather than huge transformative change all at once. If someone focuses on changing 1% every day that will result in a 37x improvement over a year. Breakthroughs are based on these small incremental changes, not on a singular event. Building atomic habits is like compound interest. Small changes result in exponential change over time, however breakthroughs in change tend to plateau before they peak.
+- Rather than focusing on goals, focus on the systems needed to bring about the change you desire. Don't focus on running the marathon, focus on weekly training. Winners and losers both have the same goals. Achieving a goal is a momentary change. Goal place limitations on your happiness and are at odds with long term progress. 
+-  The three layers of behavioral change are 1) change in outcomes (what you get), 2) change in process (what you do), and 3) change in identity (what you believe). Of these, change in identity is the most effective for long term behavioral change. Rather than focusing on what you want to achieve, focus on who you want to be. Your beliefs about yourself will define your behavior.
+- Habits progress through 4 steps: cue, craving, response, and reward. Cue is information that predicts a reward. Craving means a craving for state-change. The response is the habit itself. The reward is the change in state. The cycle repeats hundreds or thousands of times daily without our conscious knowledge. One of the greatest challenges in changing our habits is maintaining awareness of what we're doing.
+- You are more likely to do something you set out to do if you form an implementation intention behind it, which is a plan for how, when, and where you are going to implement an action. This takes the general form of the sentence "I will (behavior) at (time) in (location)".
+- Much of our behavior is based on chains of actions that lead from one cue to the next, for example washing your hands after using the bathroom. You can take advantage of this phenomenon through habit stacking to build a new habit: make your new habit immediately follow an existing one. The habit stacking formula is "After (current habit), I will (new habit)." The key to making it work is choosing the right cue. 
+- Our environment has a tremendous effect on our habits. Making our habits obvious is key to our success (e.g., placing a book on your pillow to remind yourself to read at night). Every habit is context dependent. In 1936, psychologist Kurt Lewin came up with the equation that Behavior is a function of the Person in their Environment: B = f(P,E). Be mindful of the context of your habits, and try not to mix contexts (e.g., using the couch for reading and watching TV) as this will mix habits and cause the easier habits to win out.
